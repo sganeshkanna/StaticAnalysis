@@ -1,6 +1,7 @@
 # Shopping App 
   This is an Open Sourced full stack E-Commerce App. I started this Project out of cusiosity and absoulutely no vision but now it have eveolve to full size Shopping App. This repos hold basic E-commerce App POC which I had created 2 years back. You can download emo App to see what it looks like now. I also have PWA web App for the this project. If you are interested feel free to Ping me. 
 
+
  # Try the Demo on PlayStore
  
  # https://play.google.com/store/apps/details?id=com.hitesh_sahu.retailapp&hl=en
